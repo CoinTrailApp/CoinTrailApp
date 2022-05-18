@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: CoinTrail
-description: Decentralized Crypto Tax Calculator
+description: "Decentralized Crypto Tax Calculator"
+show_downloads: "false"
