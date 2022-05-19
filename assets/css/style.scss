@@ -5,7 +5,7 @@
 
 .app-sidebar {
   float:left;
-  width: #{$medium-breakpoint};
+  width: 35em;
   
   @include small {
     width: 100%;
