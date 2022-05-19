@@ -5,7 +5,11 @@
 
 .app-sidebar {
   float:left;
-  width: 576px;
+  width: 100%;
+  
+  @include large {
+    width: 576px;
+  }
 }
 
 .app-poster {
