@@ -25,6 +25,8 @@ CoinTrail aggerates all transactions imported from CSV files or synced from Exch
 
 Transactions are automatically tagged by #vendor, #source...normalized, deduplicated and corrected missing Cost Basic using Historical Price Discovery from CoinGecko, Ftxus and Coinbase.
 
+[TBD]
+
 # Tax Lots
 
 CoinTrail supports 3 different tax strategies:
@@ -34,11 +36,31 @@ CoinTrail supports 3 different tax strategies:
 
 Let take an example: A user bought 1 BTC on Coinbase at 35K and bought another 0.5 BTC for 36K. He then transfers 1 BTC to CelsiusNetwork to earn yield and 0.5 BTC to Cold Storage. Few months later he then swapped 0.5 BTC on CelsiusNetwork for USDC at 38K. Here is how the tax lots look for each tax strategy.
 
+[TBD]
+
+# Import
+
+[TBD]
+
+# Sync
+
+[TBD]
+
+# Export
+
+[TBD]
+
+# Search
+
+[TBD]
+
 # Tax Filing
 
 To accomodate for all tax filing situations, although the default Genesis portfolio should be enough for 95% of the use cases.  CoinTrail supports multiple tax portfolios concept for advance filing. Depends on your need:
 - Taxable Income: if staking provider does not handle out 1099-MISC for Earn/Reward at year end then uses the amount that CoinTrail calculated when filing tax. If you have multiple staking providers and some does other don't, you should saperate them out in different portfolio.
 - Realized Gain/Loss: very straight forward to export tax form 8949 from CoinTrail and import into your favorite tax service.
+
+[TBD]
 
 # Conclusion and Future Work
 
