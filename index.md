@@ -1,6 +1,6 @@
 <div class="app-sidebar">
   <h1 class="project-header">
-    Instantly calculates taxable income, realized gain/loss and tax-lots.
+    Instantly calculates taxable income, realized gain/loss and tax lots.
   </h1>
   <h2 class="project-tagline">
     Available on App Store for just $1.99.
