@@ -5,10 +5,10 @@
 
 .app-sidebar {
   float:left;
-  width: 100%;
+  width: 576px;
   
-  @include large {
-    width: 576px;
+  @include small {
+    width: 100%;
   }
 }
 
