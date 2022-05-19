@@ -4,7 +4,7 @@
 @import 'jekyll-theme-cayman';
 
 .app-sidebar {
-  float:left;
+  float: left;
   width: 35em;
   
   @include small {
@@ -17,7 +17,7 @@
 }
 
 .app-sidebar {
-  .project-name {
+  .project-header {
     color: black;
   }
   .project-tagline {
