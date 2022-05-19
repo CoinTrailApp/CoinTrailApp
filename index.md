@@ -3,7 +3,7 @@
 </div>
 <div>
   <p>
-    Instantly calculates taxable income, realized gain/loss and plans tax-lots in details for next crypto sell
+    Instantly calculates taxable income, realized gain/loss and tax-lots in details for next crypto sell
   </p>
   <ul>
     <li>Coinbase</li>
