@@ -1,24 +1,20 @@
 <div style="float: right">
 <img src="/assets/images/CoinTrail-phone.png" alt="CoinTrail phone" style="width: 50%; height: 50%"/>
 </div>
-
 <div>
   <p>
     Instantly calculates taxable income, realized gain/loss and plans tax-lots in details for next crypto sell
   </p>
-  <p>
-    Intuitive interface to import or sync transactions from exchanges, mining pools and wallets
-    <ul>
-      <li>Coinbase</li>
-      <li>CoinbasePro</li>
-      <li>CelsiusNetwork</li>
-      <li>CashApp</li>
-      <li>FtxUs</li>
-      <li>Gemini</li>
-      <li>Kraken</li>
-      <li>ViaBTC</li>
-      <li>F2Pool</li>
-    </ul>
-  </p>
+  <ul>
+    <li>Coinbase</li>
+    <li>CoinbasePro</li>
+    <li>CelsiusNetwork</li>
+    <li>CashApp</li>
+    <li>FtxUs</li>
+    <li>Gemini</li>
+    <li>Kraken</li>
+    <li>ViaBTC</li>
+    <li>F2Pool</li>
+  </ul>
   <a href="https://apps.apple.com/us/app/cointrail/id1614887276?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1647993600&h=77490f38156a901efc16654c37b90396" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 </div>
