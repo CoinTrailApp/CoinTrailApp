@@ -12,7 +12,7 @@ Unlike existing solutions on the market with SaaS based approach, CoinTrail is a
 
 CoinTrail automatically manages tax-lots when you make a trade or transfer based on the tax strategy of your choice. It shows you which lot will be used prior to making a sale, which one will be reserved if you make a withdrawal and restore exact Cost Basic as deposit into other exchanges.
 
-Fees are another mysterious thing when you trade on exchanges. Many exchanges don't show fees when doing a swap or convert from one crypto asset to another. This leads to confusion when calculating Cost Basic, lowering tax deduction. CoinTrail addresses this problem by estimating fees using historical price discovery when permitted.
+Fees is another mysterious thing when trading on exchanges. Many exchanges don't show fees when doing a swap or convert from one crypto asset to another. This leads to confusion when calculating Cost Basic, lowering tax deduction. CoinTrail addresses this problem by estimating fees using historical price discovery when permitted.
 
 Off balance tracking is another cool feature. CoinTrail automatically matches all the withdrawals with deposits. For any withdrawal without a deposit will treat as off balance. This happens when transfering assets to a Cold Storage.
 
