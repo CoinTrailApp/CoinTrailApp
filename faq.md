@@ -24,4 +24,4 @@
 
 ## Does CoinTrail available on Android?
 
-Not at the moment, if you are interested please reach out to support channel
+Not at the moment, if interested please tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
