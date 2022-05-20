@@ -22,6 +22,10 @@
 - 8949 Standard form
 - TurboTax form
 
+## How often does CoinTrail release update?
+
+**CoinTrail** releases new update to iOS App Store every 2 weeks, with more integrations, features and enhancements.
+
 ## Does CoinTrail available on Android?
 
 Not at the moment, if interested please tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
