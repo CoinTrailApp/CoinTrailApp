@@ -1,7 +1,7 @@
 ## How do i get support?
 
-- Tweet at **@CoinTrailApp**
-- File a ticket on github public repo **https://github.com/CoinTrailApp/TaxCalculator**
+- Tweet at *@CoinTrailApp*
+- File a ticket on github public repo *https://github.com/CoinTrailApp/TaxCalculator*
 
 ## How do i get transactions to CoinTrail?
 
