@@ -4,7 +4,7 @@
 
 Booming in cryptocurrency creates tax filing challenge for individuals who own this asset class. Unlike, traditional finance where an institution can hand out 8949 tax form at the end of the year, the crypto exchanges are not able to do so due to lack of origin Cost Basic when assets being transferred cross exchanges.
 
-In this paper, CoinTrail implements a very simple and effectively algorithm to keep track of Cost Basic and Tax Calculation Engine which helps easy the mind of crypto HODLers.
+In this paper, CoinTrail presents a very simple and effectively algorithm to keep track of Cost Basic and Tax Calculation Engine which helps easy the mind of crypto HODLers.
 
 ## Introduction
 
@@ -38,9 +38,9 @@ CoinTrail supports 3 different tax strategies:
 - Fifo (first in first out)
 - Filo (first in last out)
 
-Let take an example: A user bought 1 BTC on Coinbase at 35K and bought another 0.5 BTC for 36K. He then transfers 1 BTC to CelsiusNetwork to earn yield and 0.5 BTC to Cold Storage. Few months later he then swapped 0.5 BTC on CelsiusNetwork for USDC at 38K. Here is how the tax lots look for each tax strategy.
 
-[TBD]
+Let take an example:
+A user bought 1 BTC on Coinbase at 35K and bought another 0.3 BTC for 36K. He then transfers 1 BTC to CelsiusNetwork to earn yield and 0.3 BTC to Cold Storage. Few months later he then sold 0.5 BTC on CelsiusNetwork for USDC at 38K. Here is how the tax lots look for each tax strategy.
 
 ## Import
 
@@ -66,7 +66,7 @@ To accomodate for all tax filing situations, although the default Genesis portfo
 
 [TBD]
 
-## Conclusion and Future Work
+## Conclusion
 
 Clock skew cross exchanges is a bit of an issue, since the deduplication and tax lots management are depends on it. A withdrawal transation happened in one exchange might record later than the deposit into other exchange. This's causing an overdraft when matching transaction.
 
