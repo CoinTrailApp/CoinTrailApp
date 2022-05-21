@@ -39,6 +39,7 @@ CoinTrail supports 3 different tax strategies:
 - Filo (first in last out)
 
 Let take an example:
+
 A user bought 1 BTC on Coinbase at 35K and bought another 0.3 BTC for 36K. He then transfers 1 BTC to CelsiusNetwork to earn yield and 0.3 BTC to Cold Storage. Few months later he then sold 0.5 BTC on CelsiusNetwork for USDC at 38K. Here is how the tax lots look for each tax strategy.
 
 ![Hifo tax strategy](/assets/images/hifo-strategy-diagram.png)
