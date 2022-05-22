@@ -64,8 +64,6 @@ To accomodate for all tax filing situations, although the default Genesis portfo
 - Taxable Income: if staking provider does not handle out 1099-MISC for Earn/Reward at year end then uses the amount that CoinTrail calculated when filing tax. If you have multiple staking providers and some does other don't, you should saperate them out in different portfolio.
 - Realized Gain/Loss: very straight forward to export tax form 8949 from CoinTrail and import into your favorite tax service.
 
-[TBD]
-
 ## Conclusion
 
 Clock skew cross exchanges is a bit of an issue, since the deduplication and tax lots management are depends on it. A withdrawal transation happened in one exchange might record later than the deposit into other exchange. This's causing an overdraft when matching transaction.
