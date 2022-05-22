@@ -29,8 +29,6 @@ CoinTrail aggerates all transactions imported from CSV files or synced from Exch
 
 Transactions are automatically tagged by #vendor, #source...normalized, deduplicated and corrected missing Cost Basic using Historical Price Discovery from CoinGecko, Ftxus and Coinbase.
 
-[TBD]
-
 ## Tax Lots
 
 CoinTrail supports 3 different tax strategies:
@@ -40,13 +38,13 @@ CoinTrail supports 3 different tax strategies:
 
 Let take an example:
 
-A user bought 1 BTC on Coinbase at 35K and bought another 0.3 BTC for 36K. He then transfers 1 BTC to CelsiusNetwork to earn yield and 0.3 BTC to Cold Storage. Few months later he then sold 0.5 BTC on CelsiusNetwork for USDC at 38K. Here is how the tax lots look for each tax strategy.
+A user bought 1 BTC on Coinbase at 35K and bought another 0.3 BTC for 36K. He then transfers 1 BTC to CelsiusNetwork to earn yield and 0.3 BTC to Cold Storage. Few months later he then sold 0.5 BTC on CelsiusNetwork for USDC at 38K. Here is how the tax lots look for Hifo strategy:
 
 ![Hifo strategy](/assets/images/hifo-strategy-diagram.png)
 
 ## Import
 
-[TBD]
+
 
 ## Sync
 
