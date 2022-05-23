@@ -2,6 +2,11 @@
   <h1 class="project-header">
     Instantly calculates taxable income, realized gain/loss and tax lots.
   </h1>
+  <ul>
+    <li>Secure and decentralized</li>
+    <li>Intuitive interface</li>
+    <li>Community driven</li>
+  </ul>
   <h2 class="project-tagline">
     Available on App Store for $1.99
   </h2>
