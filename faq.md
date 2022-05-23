@@ -1,6 +1,6 @@
 ## About CoinTrail developer
 
-I am a software engineer ([LinkedIn](www.linkedin.com/in/huonghovan)), turning coin HODLer. I am running a small Bitcoin mining rigs, farming some altcoins at few places. I am making the app for myself and thought others might want it as well, a cheap and secured decentralized crypto tax calculator.
+I am a software engineer (see [LinkedIn](www.linkedin.com/in/huonghovan)), turning coin HODLer. I am running a small Bitcoin mining rigs, farming some altcoins at few places. I am making the app for myself and thought others might want it as well, a cheap and secured decentralized crypto tax calculator.
 
 ## How do i get support?
 
