@@ -60,17 +60,17 @@ A user bought 1 BTC on [Coinbase](https://coinbase.com) at 35K and bought anothe
 
 ## Tax Filing
 
-To accomodate for all tax filing situations, although the default Genesis portfolio should be enough for 95% of the use cases.  CoinTrail supports multiple tax portfolios concept for advance filing. Depends on your need:
-- Taxable Income: if staking provider does not handle out 1099-MISC for Earn/Reward at year end then uses the amount that CoinTrail calculated when filing tax. If you have multiple staking providers and some does other don't, you should saperate them out in different portfolio.
+To accommodate for all tax filing situations, although the default Genesis portfolio should be enough for 95% of the use cases.  CoinTrail supports multiple tax portfolios concept for advance filing. Depends on your need:
+- Taxable Income: if staking provider does not handle out 1099-MISC for Earn/Reward at year end then uses the amount that CoinTrail calculated when filing tax. If you have multiple staking providers and some does other don't, you should separate them out in different portfolio.
 - Realized Gain/Loss: very straight forward to export tax form 8949 from CoinTrail and import into your favorite tax service.
 
 ## Conclusion
 
-Clock skew cross exchanges is a bit of an issue, since the deduplication and tax lots management are depends on it. A withdrawal transation happened in one exchange might record later than the deposit into other exchange. This's causing an overdraft when matching transaction.
+Clock skew cross exchanges is a bit of an issue, since the deduplication and tax lots management depends on it. A withdrawal transaction happened in one exchange might record later than the deposit into another exchange. This causes an overdraft when matching transactions.
 
-To preserve privacy, CoinTrail chooses not to have a central server for the app to phone home, not collect any crash logs...This leads to some challanges on distribution and supporting the community.
+To preserve privacy, CoinTrail chooses not to have a central server for the app to phone home, not collect any crash logs...This leads to some challenges on distribution and supporting the community.
 
-Tax calculation is not that complex as one might think. It can be done manually with small number of transactions but gonna be a challange with larger transactions over long period of time. Many SaaS tax services take advatange and charge user a high fee, recurrence subscription... CoinTrail is nearly free, just here to help the community. CoinTrail (beta) is available on iOS AppStore and being update one in every 2 weeks, with more Exchanges, Mining Pools and Wallets integration.
+Tax calculation is not as complex as one might think. It can be done manually with a small number of transactions but gonna be a challenge with larger transactions over long period of time. Many SaaS tax services take advantage and charge users a high fee, recurrence subscription... CoinTrail is nearly free, just here to help the community. CoinTrail (beta) is available on iOS AppStore and being updated one in every 2 weeks, with more Exchanges, Mining Pools and Wallets integration.
 
 ## References
 
