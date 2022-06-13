@@ -14,7 +14,7 @@ CoinTrail automatically manages tax-lots when you make a trade or transfer based
 
 Fees is another mysterious thing when trading on exchanges. Many exchanges don't show fees when doing a swap or convert from one crypto asset to another. This leads to confusion when calculating Cost Basic, lowering tax deduction. CoinTrail addresses this problem by estimating fees using historical price discovery when permitted.
 
-Reserve balance tracking is another cool feature. CoinTrail automatically matches all the withdrawals with deposits. For any withdrawal without a deposit will treat as reserve balance. This happens when transfering assets to a Cold Storage.
+Reserve balance tracking is another cool feature. CoinTrail automatically matches all the withdrawals with deposits. For any non-payment withdrawal without a deposit will be treated as a reserve balance. This happens when transferring assets to a Cold Storage.
 
 ## Transactions
 
@@ -38,7 +38,7 @@ CoinTrail supports 3 different tax strategies:
 
 Let take an example:
 
-A user bought 1 BTC on Coinbase at 35K and bought another 0.3 BTC for 36K. He then transfers 1 BTC to CelsiusNetwork to earn yield and 0.3 BTC to Cold Storage. Few months later he then sold 0.5 BTC on CelsiusNetwork for USDC at 38K. Here is how the tax lots look for Hifo strategy:
+A user bought 1 BTC on [Coinbase](https://coinbase.com) at 35K and bought another 0.3 BTC for 36K. He then transfers 1 BTC to [CelsiusNetwork](https://celsius.network) to earn yield and 0.3 BTC to Cold Storage wallet. Few months later he then sold 0.5 BTC in [CelsiusNetwork](https://celsius.network) for USDC at 38K. Here is how the tax lots look for Hifo strategy:
 
 ![Hifo strategy](/assets/images/hifo-strategy-diagram.png)
 
@@ -50,11 +50,11 @@ A user bought 1 BTC on Coinbase at 35K and bought another 0.3 BTC for 36K. He th
 
 [TBD]
 
-## Export
+## Search
 
 [TBD]
 
-## Search
+## Export
 
 [TBD]
 
