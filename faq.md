@@ -26,6 +26,10 @@ I am a software engineer (see [LinkedIn](www.linkedin.com/in/huonghovan)), turni
 - 8949 Standard form
 - TurboTax form
 
+## What is Reserve Balance?
+
+Balance of non-payment *Withdrawal* transactions without matching *Deposit*, see [whitepaper](/whitepaper.html) for details
+
 ## How often does CoinTrail release update?
 
 **CoinTrail** releases new update to iOS App Store every 2 weeks, with more integrations, features and enhancements.
