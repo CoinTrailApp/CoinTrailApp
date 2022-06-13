@@ -1,13 +1,13 @@
-## About CoinTrail developer
+## About CoinTrail's developer
 
-I'm a software engineer (see [LinkedIn](www.linkedin.com/in/huonghovan)), turning coins HODLer. I'm operating a small Bitcoin mining rigs, farming altcoins at few places. I am making the app for myself and thought others might want it as well, a cheap and secured decentralized crypto tax calculator.
+I'm a software engineer (see [LinkedIn](www.linkedin.com/in/huonghovan)), turning coins HODLer. I'm operating small Bitcoin mining rigs, farming altcoins at a few places. I am making the app for myself and thought others might want it as well, a cheap and secured decentralized crypto tax calculator.
 
-## How do i get support?
+## How do I get support?
 
 - Tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
 - File a ticket on [Github](https://github.com/CoinTrailApp/TaxCalculator)
 
-## How do i get transactions to CoinTrail?
+## How do I get transactions to CoinTrail?
 
 **CoinTrail** provides an intuitive interface to import or sync transactions from exchanges, mining pools and wallets:
 
@@ -30,10 +30,10 @@ I'm a software engineer (see [LinkedIn](www.linkedin.com/in/huonghovan)), turnin
 
 Balance of non-payment *Withdrawal* transactions without matching *Deposit*, see [whitepaper](/whitepaper.html) for details
 
-## How often does CoinTrail release update?
+## How often does CoinTrail release updates?
 
-**CoinTrail** releases new update to iOS App Store every 2 weeks, with more integrations, features and enhancements.
+**CoinTrail** releases a new update to the iOS App Store every 2 weeks, with more integrations, features and enhancements.
 
-## Does CoinTrail available on Android?
+## Is CoinTrail available on Android?
 
 Not at the moment, if interested please tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
