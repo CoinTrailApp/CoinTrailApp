@@ -58,6 +58,10 @@ A user bought 1 BTC on [Coinbase](https://coinbase.com) at 35K and bought anothe
 
 [TBD]
 
+## Tax Planning
+
+[TBD]
+
 ## Tax Filing
 
 To accommodate for all tax filing situations, although the default Genesis portfolio should be enough for 95% of the use cases.  CoinTrail supports multiple tax portfolios concept for advance filing. Depends on your need:
