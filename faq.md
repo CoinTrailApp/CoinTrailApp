@@ -6,6 +6,7 @@ I'm a software engineer turning coins HODLer. I'm operating small Bitcoin mining
 
 - Tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
 - File a ticket on [Github](https://github.com/CoinTrailApp/TaxCalculator)
+- Drop an email at [support@cointrail.app](mailto:support@cointrail.app)
 
 ## How do I get transactions to CoinTrail?
 
