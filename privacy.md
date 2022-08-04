@@ -19,4 +19,4 @@ This policy is effective as of 2022-04-01
 
 ## Contact Us
 
-If you have any questions or suggestions about the Privacy Policy, please do not hesitate to tweet @CoinTrailApp
+If you have any questions or suggestions about the Privacy Policy, please do not hesitate to drop an email at *info@cointrail.app*
