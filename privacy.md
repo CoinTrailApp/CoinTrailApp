@@ -4,7 +4,7 @@ This Privacy Policy governs our privacy practices regarding the use of mobile ap
 
 ## Information Collection and Use
 
-The Application does not collect or transmit any persional data about you: such as your name, phone number, private key, email, location...
+The Application does not collect or transmit any personal data about you: such as your name, phone number, private key, email, location...
 All your imported transactions are stored locally in Sqlite Database on your mobile device.
 All your sensitive data: such as api keys, wallet addresses... are stored securely in KeyChain on your mobile device.
 
