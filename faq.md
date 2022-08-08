@@ -1,14 +1,14 @@
-## About CoinTrail's founder
+## Pricing
 
-I'm a software engineer turning coins HODLer. I built the app for myself to keep track of bitcoin mining income taxes and thought others might want it as well, a cheap and secured decentralized crypto tax calculator.
+**CoinTrail** is available on Apple AppStore for a lifetime price from $2.99 to $10.99, depending on purchase date, the closer to tax filing season the closer the price to $10.99.
 
-## How do I get support?
+## Support
 
-- Drop an email at [support@cointrail.app](mailto:support@cointrail.app)
+- Email at [support@cointrail.app](mailto:support@cointrail.app)
 - Tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
 - File a ticket on [Github](https://github.com/CoinTrailApp/TaxCalculator)
 
-## How do I get transactions to CoinTrail?
+## Integration
 
 **CoinTrail** provides an intuitive interface to import or sync transactions from exchanges, mining pools and wallets:
 
@@ -22,19 +22,15 @@ I'm a software engineer turning coins HODLer. I built the app for myself to keep
 - ViaBTC
 - F2Pool
 
-## What tax form does CoinTrail support?
+## Export
 
 - 8949 Standard form
 - TurboTax form
 
-## What is Reserve Balance?
+## Release
 
-Balance of non-payment *Withdrawal* transactions without matching *Deposit*, see [whitepaper](/whitepaper.html) for details
+**CoinTrail** releases a new update to the iOS App Store every 2 weeks, with more integrations, features, enhancements and bug fixes.
 
-## How often does CoinTrail release updates?
+## Team
 
-**CoinTrail** releases a new update to the iOS App Store every 2 weeks, with more integrations, features and enhancements.
-
-## Is CoinTrail available on Android?
-
-Not at the moment, if interested please tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
+I'm a software engineer turning coins HODLer. I built the app for myself to keep track of bitcoin mining income taxes and thought others might want it as well, a cheap and secured crypto tax calculator.
