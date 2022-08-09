@@ -31,6 +31,3 @@
 
 **CoinTrail** releases a new update to the iOS App Store every 2 weeks, with more integrations, features, enhancements and bug fixes.
 
-## Team
-
-I'm a software engineer turning coins HODLer. I built the app for myself to keep track of bitcoin mining income taxes and thought others might want it as well, a cheap and secured crypto tax calculator.
