@@ -27,8 +27,9 @@ CoinTrail aggerates all transactions imported from CSV files or synced from Exch
 - Deposit
 - Withdraw
 
-Transactions are automatically tagged by #vendor, #source...normalized, deduplicated and corrected missing Cost Basic using Historical Price Discovery from CoinGecko, Ftxus and Coinbase.
+![Transactions](/assets/images/Transactions.png)
 
+Transactions are automatically tagged by #vendor, #source...normalized, deduplicated and corrected missing Cost Basic using Historical Price Discovery from CoinGecko, Ftxus and Coinbase.
 ## Tax Lots
 
 CoinTrail supports 3 different tax strategies:
