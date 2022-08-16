@@ -1,4 +1,4 @@
-[Draft 2022.04.01]
+[Draft 2022.08.01]
 
 ## Abstract
 
@@ -30,7 +30,7 @@ CoinTrail aggerates all transactions imported from CSV files or synced from Exch
 ![Transactions](/assets/images/Transactions.png)
 
 Transactions are automatically tagged by #vendor, #source...normalized, deduplicated and corrected missing Cost Basic using Historical Price Discovery from CoinGecko, Ftxus and Coinbase.
-## Tax Lots
+## Tax Engine
 
 CoinTrail supports 3 different tax strategies:
 - Hifo (highest in first out)
@@ -43,25 +43,11 @@ A user bought 1 BTC on [Coinbase](https://coinbase.com) at 35K and bought anothe
 
 ![Hifo strategy](/assets/images/hifo-strategy-diagram.png)
 
-## Import
-
-[TBD]
-
-## Sync
-
-[TBD]
-
-## Search
-
-[TBD]
-
-## Export
-
-[TBD]
-
 ## Tax Planning
 
-[TBD]
+It's highly recommended to plan your crypto tax in advance. With the help of CoinTrail, you can easily import CSV transactions or sync from exchanges, seeing your taxable income and realized gain/loss in one place.
+
+![TaxLots](/assets/images/TaxLots.png)
 
 ## Tax Filing
 
