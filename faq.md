@@ -8,6 +8,10 @@
 - Tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
 - File a ticket on [Github](https://github.com/CoinTrailApp/TaxCalculator)
 
+## Release
+
+**CoinTrail** releases a new update to the iOS App Store every 2 weeks, with more integrations, features, enhancements and bug fixes.
+
 ## Integration
 
 **CoinTrail** provides an intuitive interface to import or sync transactions from exchanges, mining pools and wallets:
@@ -27,7 +31,6 @@
 - 8949 Standard form
 - TurboTax form
 
-## Release
+## FAQ
 
-**CoinTrail** releases a new update to the iOS App Store every 2 weeks, with more integrations, features, enhancements and bug fixes.
-
+- [Mining taxes 101](/howto/bitcoin-mining-tax.html)
