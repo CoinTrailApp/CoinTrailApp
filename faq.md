@@ -1,6 +1,6 @@
 ## Pricing
 
-**CoinTrail** is available on Apple AppStore for a lifetime cost of $5.99, no extra In-App purchase or subscription required.
+**CoinTrail** is available on Apple AppStore for a lifetime cost of $5.99, no signup or subscription required.
 
 ## Support
 
