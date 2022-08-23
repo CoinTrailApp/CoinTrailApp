@@ -16,15 +16,16 @@
 
 **CoinTrail** provides an intuitive interface to import or sync transactions from exchanges, mining pools and wallets:
 
-- Coinbase
-- CoinbasePro
-- CelsiusNetwork
-- CashApp
-- FtxUs
-- Gemini
-- Kraken
-- ViaBTC
-- F2Pool
+- [Coinbase](https://www.coinbase.com)
+- [CoinbasePro](https://pro.coinbase.com)
+- [CelsiusNetwork](https://celsius.network)
+- [CashApp](https://cash.app)
+- [FtxUs](https://ftx.us)
+- [Gemini](https://www.gemini.com)
+- [Kraken](https://www.kraken.com)
+- [ViaBTC](https://www.viabtc.com)
+- [F2Pool](https://www.f2pool.com)
+- [Electrum Wallet](https://electrum.org)
 
 ## Export
 
