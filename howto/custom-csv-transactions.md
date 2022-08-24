@@ -6,6 +6,7 @@
 ## CSV Format
 
 Download [sample.csv](/assets/whitepaper-sample.csv) and use your favorite editor to prepare a transaction file with the same columns layout.
+
 ![Sample.csv](/assets/images/whitepaper-sample.png)
 
 | Column       | Data Type   | Description | Example     |
