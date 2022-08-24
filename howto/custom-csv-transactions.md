@@ -18,11 +18,11 @@ Download [sample.csv](/assets/whitepaper-sample.csv) and use your favorite edito
 | Currency     | String      | Fiat currency or other asset, leave empty for auto lookup fiat|             |
 | Total        | Number      | Net total in Currency|             |
 | Fee          | Number      | Fee in Currency|             |
-| Tags         | String      | Space delimited for multiple tags| Coinbase |
+| Tags         | String      | Space delimited for multiple tags, first tag always Vendor| Coinbase |
 | Description  | String      |             |             |
 
 ### Advance usage
 
 - Automatically lookup cost basic
-- Swapping assests
-- NTF
+- Swapping assets
+- DeFi/NFT
