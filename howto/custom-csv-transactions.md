@@ -3,7 +3,7 @@
 [TBD]
 
 
-## CSV Format
+### CSV Format
 
 Download [sample.csv](/assets/whitepaper-sample.csv) and use your favorite editor to prepare a transaction file with the same columns layout.
 
@@ -22,6 +22,6 @@ Download [sample.csv](/assets/whitepaper-sample.csv) and use your favorite edito
 | Tags         | String      |             |             |
 | Description  | String      |             |             |
 
-## Advance usage
+### Advance usage
 
 [TBD]
