@@ -30,6 +30,7 @@ CoinTrail aggerates all transactions imported from CSV files or synced from Exch
 ![Transactions](/assets/images/Transactions.png)
 
 Transactions are automatically tagged by #vendor, #source...normalized, deduplicated and corrected missing Cost Basic using Historical Price Discovery from CoinGecko, Ftxus and Coinbase.
+
 ## Tax Engine
 
 CoinTrail supports 3 different tax strategies:
@@ -42,6 +43,7 @@ Let take an example:
 A user bought 1 BTC on [Coinbase](https://coinbase.com) at 35K and bought another 0.3 BTC for 36K. He then transfers 1 BTC to [CelsiusNetwork](https://celsius.network) to earn yield and 0.3 BTC to Cold Storage wallet. Few months later he then sold 0.5 BTC in [CelsiusNetwork](https://celsius.network) for USDC at 38K. Here is how the tax lots look for Hifo strategy:
 
 ![Hifo strategy](/assets/images/hifo-strategy-diagram.png)
+[Sample.csv](/assets/whitepaper-sample.csv)
 
 ## Tax Planning
 
