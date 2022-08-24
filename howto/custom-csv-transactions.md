@@ -10,7 +10,7 @@ Download [sample.csv](/assets/whitepaper-sample.csv) and use your favorite edito
 
 | Column       | Data Type   | Description | Example     |
 ---------------|-------------|-------------|--------------
-| xId          | Int64       | for advanage useage, leave empty |             |
+| xId          | Int64       | for advanage usage, leave empty |             |
 | Date         | Date        | in format of "yyyy-MM-dd HH:mm:ss" or "yyyy-MM-dd HH:mm:ss zzz" |             |
 | Action       | String      | Earn, Reward, Sell, Buy, Swap, Withdraw, Deposit, Fee |             |
 | Asset        | String      |             | BTC, ETH... |
