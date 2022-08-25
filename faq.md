@@ -27,6 +27,8 @@
 - [F2Pool](https://www.f2pool.com)
 - [Electrum Wallet](https://electrum.org)
 
+**CoinTrail** also supports flexible [Custom CSV format](/howto/custom-csv-transactions.html) to handle DeFi or NTF transactions
+
 ## Export
 
 - 8949 Standard form
@@ -34,4 +36,5 @@
 
 ## FAQ
 
+- [Custom CSV transactions](/howto/custom-csv-transactions.html)
 - [Mining taxes 101](/howto/bitcoin-mining-tax.html)
