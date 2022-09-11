@@ -23,6 +23,7 @@ CoinTrail aggerates all transactions imported from CSV files or synced from Exch
 - Reward
 - Sell
 - Buy
+- Mint
 - Swap
 - Deposit
 - Withdraw
