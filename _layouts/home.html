@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    	{% include head-custom.html %}
+	</head>
+	<body class="is-preload homepage">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			<div id="header-wrapper">
+				{% include header-custom.html %}
+			</div>
+
+			<!-- Banner -->
+			<div id="banner-wrapper">
+				<div id="banner" class="box container">
+					<div class="row">
+						<div class="col-9 col-12-medium">
+							<h2>Crypto Tax App For Hodlers</h2>
+							<p>Hodling without fear of tax burden</p>
+							<footer>
+								<a class = "iOSbutton large icon" href="https://apps.apple.com/us/app/cointrail/id1614887276?itsct=apps_box_badge&amp;itscg=30200"> <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1647993600&h=77490f38156a901efc16654c37b90396" alt="Download on the App Store"></a>
+							</footer>
+						</div>
+						<div class="col-3 col-12-medium phone">
+							<img src="assets/images/CoinTrail-phone-22-06-01.png" alt=""/>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Features -->
+			<div id="features-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="col-4 col-12-medium">
+
+							<!-- Box -->
+							<section class="box feature">
+								<div class="inner">
+									<header>
+										<h2>Instant Taxes Calculation</h2>
+									</header>
+									<p>Taxable income and Realized gain/loss is calculated instantly as transactions are settled from exchanges, mining pools or wallets.</p>
+									<a href="whitepaper.html" class="icon solid fa-arrow-circle-right"></a>
+								</div>
+							</section>
+
+						</div>
+						<div class="col-4 col-12-medium">
+
+							<!-- Box -->
+							<section class="box feature">
+								<div class="inner">
+									<header>
+										<h2>Smart Tax Lots Management</h2>
+									</header>
+									<p>Automatically matching deposit and withdraw transactions to retain cost basic when transferring cross exchanges</p>
+									<a href="whitepaper.html" class="icon solid fa-arrow-circle-right"></a>
+								</div>
+							</section>
+
+						</div>
+						<div class="col-4 col-12-medium">
+
+							<!-- Box -->
+							<section class="box feature">
+								<div class="inner">
+									<header>
+										<h2>Advance Transactions Search</h2>
+									</header>
+									<p>Automatically indexing transactions to enable full-text search by asset, action, currency, amount, description, year and tags</p>
+									<a href="whitepaper.html" class="icon solid fa-arrow-circle-right"></a>
+								</div>
+							</section>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Main -->
+			<div id="main-wrapper">
+				{{ content }}
+			</div>
+
+			<!-- Footer -->
+			<div id="footer-wrapper">
+				{% include footer-custom.html %}
+			</div>
+
+		</div>
+
+		<!-- Scripts -->
+		{% include foot-custom.html %}
+
+	</body>
+</html>

@@ -1,40 +1,10 @@
-## Pricing
-
-**CoinTrail** is available on Apple AppStore for a lifetime cost of $5.99, no signup or subscription required.
-
-## Support
-
-- Email at [support@cointrail.app](mailto:support@cointrail.app)
-- Tweet at [@CoinTrailApp](http://twitter.com/CoinTrailApp)
-- File a ticket on [Github](https://github.com/CoinTrailApp/TaxCalculator)
-
-## Release
-
-**CoinTrail** releases a new update to the iOS App Store every 2 weeks, with more integrations, features, enhancements and bug fixes.
-
-## Integration
-
-**CoinTrail** provides an intuitive interface to import or sync transactions from exchanges, mining pools and wallets:
-
-- [Coinbase](https://www.coinbase.com)
-- [CoinbasePro](https://pro.coinbase.com)
-- [CelsiusNetwork](https://celsius.network)
-- [CashApp](https://cash.app)
-- [FtxUs](https://ftx.us)
-- [Gemini](https://www.gemini.com)
-- [Kraken](https://www.kraken.com)
-- [ViaBTC](https://www.viabtc.com)
-- [F2Pool](https://www.f2pool.com)
-- [Electrum Wallet](https://electrum.org)
-
-**CoinTrail** also supports flexible [Custom CSV format](/howto/custom-csv-transactions.html) to handle DeFi or NTF transactions
-
-## Export
-
-- 8949 Standard form
-- TurboTax form
-
-## FAQ
-
-- [Custom CSV transactions](/howto/custom-csv-transactions.html)
-- [Mining taxes 101](/howto/bitcoin-mining-tax.html)
+---
+title: FAQ
+---
+<ul class="style2">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

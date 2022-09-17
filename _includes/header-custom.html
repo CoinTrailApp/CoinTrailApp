@@ -1,0 +1,39 @@
+<div id="header-wrapper">
+	<header id="header" class="container">
+
+		<!-- Logo -->
+		<div id="logo">
+			<h1><a href="{{ 'index.html' | relative_url }}">CoinTrail</a></h1>
+			<span>Crypto Tax</span>
+		</div>
+
+		<!-- Nav -->
+		<nav id="nav">
+			<ul>
+				{% if page.name == "index.md" %}
+				<li class = "current"><a href="{{ 'index.html' | relative_url }}">Home</a></li>
+				{% else %}
+				<li><a href="{{ 'index.html' | relative_url }}">Home</a></li>
+				{% endif %}
+
+				{% if page.name == "whitepaper.md" %}
+				<li class = "current"><a href="{{ 'whitepaper.html' | relative_url }}">Whitepaper</a></li>
+				{% else %}
+				<li><a href="{{ 'whitepaper.html' | relative_url }}">Whitepaper</a></li>
+				{% endif %}
+
+				{% if page.name == "privacy.md" %}
+				<li class = "current"><a href="{{ 'privacy.html' | relative_url }}">Privacy Policy</a></li>
+				{% else %}
+				<li><a href="{{ 'privacy.html' | relative_url }}">Privacy Policy</a></li>
+				{% endif %}
+
+				{% if page.name == "faq.md" %}
+				<li class = "current"><a href="{{ 'faq.html' || relative_url}}">FAQ</a></li>
+				{% else %}
+				<li><a href="{{ 'faq.html' || relative_url}}">FAQ</a></li>
+				{% endif %}
+			</ul>
+		</nav>
+	</header>
+</div>

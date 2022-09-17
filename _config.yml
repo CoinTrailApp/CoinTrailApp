@@ -1,5 +1,5 @@
 title: CoinTrail
-description: Decentralized Crypto Tax Calculator
-show_downloads: false
+description: Crypto Tax App For Hodlers
 
-theme: jekyll-theme-cayman
+sass:
+  style: compressed

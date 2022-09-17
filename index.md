@@ -1,17 +1,33 @@
-<div class="app-sidebar">
-  <h1 class="project-header">
-    Instantly calculates taxable income, realized gain/loss and tax lots.
-  </h1>
-  <ul>
-    <li>Secure and decentralized</li>
-    <li>Intuitive interface</li>
-    <li>Community driven</li>
-  </ul>
-  <h2 class="project-tagline">
-    Available for purchase on App Store (US only)
-  </h2>
-  <a href="https://apps.apple.com/us/app/cointrail/id1614887276?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1647993600&h=77490f38156a901efc16654c37b90396" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px;"></a>
-</div>
-<div>
-  <img src="/assets/images/CoinTrail-phone-22-06-01.png" alt="CoinTrail phone" class="app-poster"/>
+---
+layout: home
+---
+<div class="container">
+	<div id="content">
+		<section>
+			<h2>Integration</h2>
+			<p>Intuitive interface to import or sync transactions from exchanges, mining pools and wallets</p>
+			<ul class="style2">
+			 	<li><a href="https://www.coinbase.com">Coinbase</a></li>
+			  	<li><a href="https://pro.coinbase.com">CoinbasePro</a></li>
+			  	<li><a href="https://celsius.network">CelsiusNetwork</a></li>
+			  	<li><a href="https://cash.app">CashApp</a></li>
+			  	<li><a href="https://ftx.us">FtxUs</a></li>
+			  	<li><a href="https://www.gemini.com">Gemini</a></li>
+			  	<li><a href="https://www.kraken.com">Kraken</a></li>
+			  	<li><a href="https://www.viabtc.com">ViaBTC</a></li>
+			  	<li><a href="https://www.f2pool.com">F2Pool</a></li>
+			 	<li><a href="https://electrum.org">Electrum Wallet</a></li>
+			 	<li><a href="https://www.exodus.com">Exodus Wallet</a></li>
+			</ul>
+			<p>DIY with flexible <a href="howto/custom-csv-transactions.html">Custom CSV format</a> to handle DeFi or NTF transactions</p>
+		</section>
+		<section>
+			<h2>Export</h2>
+			<p>Easy to share with popular tax software</p>
+			<ul class="style2">
+				<li><a href="https://www.irs.gov/forms-pubs/about-form-8949">8949 Standard</a></li>
+				<li><a href="http://turbotax.intuit.com/">TurboTax</a></li>
+			</ul>
+		</section>
+	</div>
 </div>
