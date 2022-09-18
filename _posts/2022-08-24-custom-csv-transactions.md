@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Custom CSV Transactions
 permalink: /howto/custom-csv-transactions.html
 ---

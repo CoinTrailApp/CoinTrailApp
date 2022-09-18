@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Mining Taxes 101
 permalink: /howto/bitcoin-mining-tax.html
 ---
