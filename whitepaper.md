@@ -42,7 +42,7 @@ CoinTrail supports 3 different tax strategies:
 - Fifo (first in first out)
 - Filo (first in last out)
 
-Let take an example:
+Lets take an example:
 
 A user bought 1 BTC on [Coinbase](https://coinbase.com) at 35K and bought another 0.3 BTC for 36K. He then transfers 1 BTC to [CelsiusNetwork](https://celsius.network) to earn yield and 0.3 BTC to Cold Storage wallet. Few months later he then sold 0.5 BTC in [CelsiusNetwork](https://celsius.network) for USDC at 38K. Here is how the tax lots look for Hifo strategy:
 
@@ -68,9 +68,9 @@ To accommodate for all tax filing situations, although the default Genesis portf
 
 Clock skew cross exchanges is a bit of an issue, since the deduplication and tax lots management depends on it. A withdrawal transaction happened in one exchange might record later than the deposit into another exchange. This causes an overdraft when matching transactions.
 
-To preserve privacy, CoinTrail chooses not to have a central server for the app to phone home, not collect any crash logs...This leads to some challenges on distribution and supporting the community.
+To preserve privacy, CoinTrail chooses not to have a central server for the app to phone home, to not collect any crash logs...This leads to some challenges on distribution and supporting the community.
 
-Tax calculation is not as complex as one might think. It can be done manually with a small number of transactions but gonna be a challenge with larger transactions over long period of time. Many SaaS tax services take advantage and charge users a high fee, recurrence subscription... CoinTrail is nearly free, just here to help the community. CoinTrail (beta) is available on iOS AppStore and being updated one in every 2 weeks, with more Exchanges, Mining Pools and Wallets integration.
+Tax calculation is not as complex as one might think. It can be done manually with a small number of transactions but it's gonna be a challenge with larger transactions over longer periods of time. Many SaaS tax services take advantage and charge users with a high fee, recurrence subscription... CoinTrail is nearly free, just here to help the community. CoinTrail (beta) is available on iOS AppStore and being updated once every 2 weeks, with more Exchanges, Mining Pools and Wallets integration.
 
 ### References
 
