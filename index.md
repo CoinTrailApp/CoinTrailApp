@@ -4,7 +4,7 @@ layout: home
 <div class="container">
 	<div id="content">
 		<section>
-			<h2>Secured and Private</h2>
+			<h2>Secure and Private</h2>
 			<p>Everything locally on mobile device, with no server, no backend, no signup, no subscription</p>
 		</section>
 		<section>
