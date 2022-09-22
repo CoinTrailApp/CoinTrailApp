@@ -70,7 +70,9 @@ Clock skew cross exchanges is a bit of an issue, since the deduplication and tax
 
 To preserve privacy, CoinTrail chooses not to have a central server for the app to phone home, to not collect any crash logs...This leads to some challenges on distribution and supporting the community.
 
-Tax calculation is not as complex as one might think. It can be done manually with a small number of transactions but it's gonna be a challenge with larger transactions over longer periods of time. Many SaaS tax services take advantage and charge users with a high fee, recurrence subscription... CoinTrail is nearly free, just here to help the community. CoinTrail (beta) is available on iOS AppStore and being updated once every 2 weeks, with more Exchanges, Mining Pools and Wallets integration.
+Tax calculation is not as complex as one might think. It can be done manually with a small number of transactions but it's gonna be a challenge with larger transactions over longer periods of time. Many SaaS tax services take advantage and charge users with a high fee, recurrence subscription...
+
+CoinTrail (beta) is available on iOS AppStore and being updated once every 2 weeks, with more Exchanges, Mining Pools and Wallets integration.
 
 ### References
 
