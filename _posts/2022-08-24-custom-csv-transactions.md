@@ -3,9 +3,10 @@ layout: post
 title: Custom CSV Transactions
 permalink: /howto/custom-csv-transactions.html
 ---
-## Custom CSV Transactions
 
-To fill in the gap of not yet supported exchanges or wallets, CoinTrail `2022.09.01` supports a flexible CSV transactions format. You can handcraft CSV files from trading activities and import to the app, for example of transactions in the [whitepaper]({{ '/whitepaper.html' | relative_url }}):
+## Introducing Custom CSV Transactions
+
+CoinTrail does not yet integrate directly with the entire universe of crypto exchanges. To fill in the gap of unsupported exchanges and wallets, CoinTrail `2022.09.01` supports flexible CSV transactions format. You can handcraft CSV files from trading activities and import to the app, for example of transactions in the [whitepaper]({{ '/whitepaper.html' | relative_url }}):
 
 ![Sample.csv]({{ '/assets/images/whitepaper-sample.png' | relative_url }})
 
@@ -26,9 +27,9 @@ Download [sample.csv]({{ '/assets/whitepaper-sample.csv' | relative_url }}) and 
 | Tags         | String      | `Space delimited` for multiple tags, first tag always Vendor| Coinbase |
 | Description  | String      |             |             |
 
-### Advance example
+### Advanced Example
 
-The CSV format is flexible enough to support more complex transactions while maintaining the ease of use. Let looks at the sample below:
+The CSV format is flexible enough to support more complex transactions while maintaining the ease of use. Lets look at the sample below:
 
 | xId | Date | Action | Asset | Quantity | Currency | Total | Fee | Tags | Description |
 |-----|------|--------|-------|----------|----------|-------|-----|------|-------------|
