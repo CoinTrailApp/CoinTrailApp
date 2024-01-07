@@ -12,7 +12,7 @@ CoinTrail does not yet integrate directly with the entire universe of crypto exc
 
 ### CSV Format
 
-Download [sample.csv]({{ '/assets/whitepaper-sample.csv' | relative_url }}) and use your favorite editor to prepare a transaction file with the same columns layout.
+Download [sample.csv]({{ '/assets/downloads/whitepaper-sample.csv' | relative_url }}) and use your favorite editor to prepare a transaction file with the same columns layout.
 
 | Column       | Data Type   | Description | Example     |
 |--------------|-------------|-------------|-------------|
